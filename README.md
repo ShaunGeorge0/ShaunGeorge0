@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaun George Anil</h1>
 <h3 align="center">A passionate ML enthusiast</h3>
 
-- 🔭 I’m currently working on [Persistence scene change detection](https://github.com/ShaunGeorge0/Persistence-Scene-Change-Detection)
-
 - 🌱 I’m currently learning **Pytorch,OpenCV and scikit learn**
 
 - 👯 I’m looking to collaborate on **AI/ML and Computer Vision projects**
